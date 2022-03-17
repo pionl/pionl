@@ -2,7 +2,7 @@
 
 > I write mainly PHP code in Laravel with main focus on strict types and DDD.
 
-My second focus on iOS / NodeJS / writing tools and packages that are used in my/clients projects.
+My second focus is on iOS / NodeJS / writing tools and packages that are used in my/clients projects. 
 
 
 - 💬 Ask me about **Laravel & PHP**
